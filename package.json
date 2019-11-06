@@ -1,5 +1,5 @@
 {
-  "name": "react-genie",
+  "name": "react-genie-emotion",
   "version": "0.1.5",
   "main": "dist/index.js",
   "module": "dist/react-genie.esm.js",
@@ -41,10 +41,10 @@
     "typescript": "^3.6.3"
   },
   "dependencies": {
+    "@emotion/core": "^10.0.22",
     "@types/styled-components": "^4.1.19",
     "react-animations": "^1.0.0",
     "react-intersection-observer": "^8.24.2",
-    "reveal": "^0.0.4",
-    "styled-components": "^4.4.0"
+    "reveal": "^0.0.4"
   }
 }
